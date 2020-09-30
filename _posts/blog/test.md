@@ -4,7 +4,7 @@ title:  "Test"
 subheadline:  "Test"
 teaser: "Using this to see where it shows up"
 categories:
-    - blog
+    - design
 tags:
     - blog
     - background color
