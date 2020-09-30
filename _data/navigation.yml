@@ -2,9 +2,28 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Publications
+  url: "/publications/"
   side: left
+  
+- title: Portfolio
+  url: "/portfolio/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
 
 - title: "Templates"
   url: "/design/"
@@ -59,17 +78,4 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
