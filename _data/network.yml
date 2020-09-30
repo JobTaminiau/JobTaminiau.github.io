@@ -5,6 +5,12 @@
   class: "network-entypo"
   title: "Foundation for Renewable Energy & Environment"
 
+- name: "Google Scholar Profile"
+  url: "https://scholar.google.com/citations?user=27-1KdYAAAAJ&hl=en"
+  class: "network-entypo"
+  title: "My Google Scholar Profile"
+
+
 #- name: "Built on Foundation"
 #  url: "http://foundation.zurb.com/"
 #  class: "services-newsletter"
