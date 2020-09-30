@@ -17,9 +17,9 @@ tags:
 #
 header: no
 image:
-    title: Wilmington.jpg
+    title: test.gif
     thumb: Wilmington_thumb.jpg
-#    homepage: mediaplayer_js-home.jpg
+    homepage: test.gif
     caption: City of Wilmington, Delaware in 3D
 #    caption_url: https://blaz.photography/
 #mediaplayer: true
