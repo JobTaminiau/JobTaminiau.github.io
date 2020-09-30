@@ -7,7 +7,7 @@ subheadline: "LIDAR Analysis"
 title: "Establishing 3D city overviews"
 teaser: "A main part of my work is to evaluate city-level sustainability options. One route to take in this case is to use Light Detection and Ranging data (LIDAR) which enables a full 3D overview of the city. I discuss in this post several lessons learned."
 categories:
-  - design
+  - Analysis
 tags:
   - LIDAR
   - Python
