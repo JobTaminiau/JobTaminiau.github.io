@@ -16,11 +16,11 @@ tags:
 # Styling
 #
 header: no
-image:
-    title: test.gif
-    thumb: Wilmington_thumb.jpg
-    homepage: test.gif
-    caption: City of Wilmington, Delaware in 3D
+#image:
+#    title: test.gif
+#    thumb: Wilmington_thumb.jpg
+#    homepage: test.gif
+#    caption: City of Wilmington, Delaware in 3D
 #    caption_url: https://blaz.photography/
 #mediaplayer: true
 ---
